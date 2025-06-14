@@ -6,7 +6,7 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-app.route('/suggest', methods=["POST"])
+@app.route('/suggest', methods=["POST"])
 def suggest():
     name =request.form['name']
     interests = request.form['interests']
