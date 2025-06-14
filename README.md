@@ -27,6 +27,11 @@ A beginner-friendly Flask web app that uses basic AI logic to suggest career pat
 - Git + GitHub  
 
 ---
+## 🌐 Live Demo
+
+🔗 [Visit the Smart Career Advisor App](https://smart-career-advisor.onrender.com)
+
+---
 
 ## 🚀 How to Run It Locally
 
